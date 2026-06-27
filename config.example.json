@@ -1,0 +1,18 @@
+{
+    "bot_token": "DEIN_BOT_TOKEN_HIER",
+    "bot_id": "DEINE_BOT_ID",
+    "room_id": "DEINE_ROOM_ID",
+    "owner_id": "DEINE_OWNER_ID",
+    "owner_username": "DEIN_USERNAME",
+    "gold_enabled": true,
+    "gold_amount": 1,
+    "gold_interval": 3600,
+    "gold_mode": "fixed",
+    "music_enabled": true,
+    "music_gold_cost": 10,
+    "panel_password": "DEIN_PANEL_PASSWORT",
+    "vip_purchase_price": 2000,
+    "auto_playlist_enabled": true,
+    "auto_playlist_url": "https://youtube.com/playlist?list=DEINE_PLAYLIST_ID",
+    "icecast_source_pass": "DEIN_ICECAST_PASSWORT"
+}

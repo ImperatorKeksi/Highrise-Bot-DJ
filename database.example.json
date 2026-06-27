@@ -1,0 +1,33 @@
+{
+  "players": {
+    "example_user_id_123": {
+      "username": "BeispielUser",
+      "gold_donated": 50,
+      "songs_added": 3,
+      "time_in_room": 3600,
+      "joined_at": "2026-06-27T12:00:00"
+    }
+  },
+  "music_credits": {
+    "example_user_id_123": 5
+  },
+  "vip_list": [],
+  "mod_list": [],
+  "owner_list": [],
+  "designer_list": [],
+  "bot_position": null,
+  "music_queue": [],
+  "web_accounts": {},
+  "recent_logs": [],
+  "recent_gold_events": [],
+  "played_urls": [],
+  "emotes_config": {
+    "winken": {
+      "emote_id": "emote-wave",
+      "num": 71,
+      "is_free": true,
+      "duration": 4.0
+    }
+  },
+  "all_emotes": []
+}

@@ -1,0 +1,30 @@
+# Secrets
+.env
+cookies.txt
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Logs
+logs/
+*.log
+
+# Datenbanken
+database.json
+database.json.bak
+database.json.empty.bak
+db.json
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporäre Dateien
+/tmp/
+*.tmp
